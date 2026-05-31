@@ -10,24 +10,6 @@ integrations, and high-traffic platforms across **fintech, telecom, and
 enterprise**. I work primarily with **Python** (FastAPI, Django, Flask) and
 focus on clean architecture, performance, and reliability at scale.
 
-### 💼 Experience
-
-**Software Engineer — LLC "COSCOM" (Ucell)** · Aug 2025 – Mar 2026
-- Shipped platforms at national telecom scale, serving **10M+ total users** and **3M+ daily active users**
-- Led SEO & performance optimizations across Ucell's web properties, improving organic visibility
-- Migrated infrastructure from VPS hosting to a **CI/CD pipeline**, cutting deploy time from multi-hour manual releases to **under 15 minutes**
-
-**Software Engineer — JSC "IT UNISOFT GROUP"** · Jun 2024 – Jun 2025
-- Designed and maintained the company's official **REST API** powering news, documents, open data, and tenders
-- Delivered an automated **fiscal receipt** system with the national tax authority, processing **thousands of receipts daily**
-- Integrated multiple payment gateways — **Paygine, Payme, Click**
-
-**Software Engineer — JSCB "Universal Bank"** · Oct 2022 – Jun 2025
-- Architected and integrated core **payment systems** powering the bank's financial platform
-- Achieved a **25x improvement** in transaction throughput by moving the inter-service layer from synchronous to asynchronous
-- Led end-to-end development of a flight & hotel booking platform (iOS/Android), integrating **10+ airline and hotel provider APIs**
-- Launched **UZB–TRY cross-border** money transfer; owned reliability across **100+ partner organizations**
-
 ### 🚀 Projects
 
 - **[MySafar.uz](https://mysafar.uz)** — Flight & hotel booking platform with iOS/Android apps · `Python · Django · PostgreSQL · Redis`
