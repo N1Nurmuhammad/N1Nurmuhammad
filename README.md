@@ -1,14 +1,20 @@
 <h1 align="center">Hi, I'm Nurmuhammad 👋</h1>
-<p align="center">Software Engineer · Backend & Telegram Bot Development · Tashkent, Uzbekistan 🇺🇿</p>
+<p align="center">Software Engineer · 4+ years in Backend & Telegram Bot Development · Tashkent, Uzbekistan 🇺🇿</p>
 
 ---
 
 ### 👨‍💻 About me
 
-Software Engineer focused on building reliable backend systems and Telegram
-bots. I work primarily with **Python** (Django, FastAPI, aiogram) and care about
-clean, maintainable code, clear APIs, and shipping things that work. Always
-learning and open to new challenges and collaboration.
+Software Engineer with **4+ years of experience** building reliable backend
+systems and Telegram bots. I work primarily with **Python** (Django, FastAPI,
+aiogram) and care about clean, maintainable code, clear APIs, and shipping
+things that work. Always learning and open to new challenges and collaboration.
+
+### 💼 Experience
+
+- **4+ years** developing backend services, REST APIs, and Telegram bots
+- Delivered production projects across web APIs, automation, and bot platforms
+- Comfortable owning features end-to-end: design → build → deploy → maintain
 
 ### 🛠️ Skills
 
@@ -19,15 +25,24 @@ learning and open to new challenges and collaboration.
 
 **Backend & Frameworks**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-A30000?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)
 
-**Databases & Tools**
+**Databases & Caching**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 🚀 What I do
 
