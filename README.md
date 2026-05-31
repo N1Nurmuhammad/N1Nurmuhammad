@@ -38,8 +38,8 @@ learning and open to new challenges and collaboration.
 
 ### 📫 Get in touch
 
-- **Email:** <!-- add your email -->
-- **Telegram:** <!-- e.g. @username -->
-- **LinkedIn:** <!-- add your LinkedIn URL -->
+
+- **Telegram:** https://t.me/n1nurmuhammad
+- **LinkedIn:** https://www.linkedin.com/in/n1nurmuhammad/
 
 <sub>Thanks for visiting — feel free to explore my repositories below.</sub>
